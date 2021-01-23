@@ -9,6 +9,11 @@ Pewlett Hackward is a large company that has been around for long time. As many 
 ### Data used for the Analysis
 
 - ![departments](https://github.com/assaci/Pewlett-Hackard-Analysis/blob/main/Data/departments.csv?raw=true)
+- ![dept_emp](https://github.com/assaci/Pewlett-Hackard-Analysis/blob/main/Datadept_emp.csv?raw=true)
+- ![dept_manager](https://github.com/assaci/Pewlett-Hackard-Analysis/blob/main/Data/dept_manager.csv?raw=true)
+- ![employees](https://github.com/assaci/Pewlett-Hackard-Analysis/blob/main/Data/employees.csv?raw=true)
+- ![salaries](https://github.com/assaci/Pewlett-Hackard-Analysis/blob/main/Data/salaries.csv?raw=true)
+- ![titles](https://github.com/assaci/Pewlett-Hackard-Analysis/blob/main/Data/titles.csv?raw=true)
 
 ### Number of Retiring Employees by Title
 
