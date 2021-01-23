@@ -21,26 +21,18 @@ To help with analysis, we used 6 different excel sheets containing company's wor
 
 ### Number of Retiring Employees by Title
 
+![retirement_titles](https://github.com/assaci/Pewlett-Hackard-Analysis/blob/main/Data/retirement_titles.csv?raw=true)
+
 
 ![retirement_titles](https://github.com/assaci/Pewlett-Hackard-Analysis/blob/main/screenshot/retirement_titles.PNG?raw=true)
 
 
-![retirement_titles](https://github.com/assaci/Pewlett-Hackard-Analysis/blob/main/Data/retirement_titles.csv?raw=true)
-
-
-
 ### Employees Eligible for the Mentorship Program
-
-
-![rmentorship_eligibilty](https://github.com/assaci/Pewlett-Hackard-Analysis/blob/main/screenshot/mentorship_eligibilty.PNG?raw=true)
-
 
 ![mentorship_eligibilty](https://github.com/assaci/Pewlett-Hackard-Analysis/blob/main/screenshot/mentorship_eligibilty.csv?raw=true)
 
 
-
-
-
+![rmentorship_eligibilty](https://github.com/assaci/Pewlett-Hackard-Analysis/blob/main/screenshot/mentorship_eligibilty.PNG?raw=true)
 
 ##Summary 
 
