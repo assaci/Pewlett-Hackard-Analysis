@@ -18,11 +18,28 @@ To help with analysis, we used 6 different excel sheets containing company's wor
 - ![employees](https://github.com/assaci/Pewlett-Hackard-Analysis/blob/main/Data/employees.csv?raw=true)
 - ![salaries](https://github.com/assaci/Pewlett-Hackard-Analysis/blob/main/Data/salaries.csv?raw=true)
 - ![titles](https://github.com/assaci/Pewlett-Hackard-Analysis/blob/main/Data/titles.csv?raw=true)
+--------------------------------------
+| Total Employees           |300024  |
+|------------------------------------|
+| Number of Departments     | 09     |
+|-------------------------------------
+| Number of Empl Retirings | 41380  |
+| ------------------------------------
+|Number of unique titles    | 90398  |
+--------------------------------------
+
+
+
+
+### Number of Retiring Title
+
+![retiring_titles](https://github.com/assaci/Pewlett-Hackard-Analysis/blob/main/screenshot/retiring_titles.PNG?raw=true)
+
+
 
 ### Number of Retiring Employees by Title
 
 ![retirement_titles](https://github.com/assaci/Pewlett-Hackard-Analysis/blob/main/Data/retirement_titles.csv?raw=true)
-
 
 ![retirement_titles](https://github.com/assaci/Pewlett-Hackard-Analysis/blob/main/screenshot/retirement_titles.PNG?raw=true)
 
