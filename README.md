@@ -24,12 +24,12 @@ _________________________________________
 ________________________________________|_
 |  Numb of Dept    |  09                |
 ________________________________________|
-|  Numb Empl Retir |  41380             |
+|  Numb Empl Retir | 41380             |
 |________________________________________
 |  Numb uniq titles|  90398             |
 |________________________________________
 | Numb of Emp for Menthorship |  1549   |
-|_______________________________________|_
+|_______________________________________
 
 ### Number of employees per department
 ![Employees_numb_per_dept](https://github.com/assaci/Pewlett-Hackard-Analysis/blob/main/screenshot/Employees_numb_per_dept.PNG?raw=true)
@@ -59,6 +59,10 @@ ________________________________________|
 
 ![mentorship_eligibilty](https://github.com/assaci/Pewlett-Hackard-Analysis/blob/main/screenshot/mentorship_eligibilty.PNG?raw=true)
 
-##Summary 
+##Summary
 
+From our analysis we found out that 300024 employees are currently working in Pewlett Hackard company. From this number 41380 are retiring soon. The company has in total 9 different departments with  90398 unique titles. 
+
+
+ 
 
