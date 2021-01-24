@@ -19,18 +19,6 @@ To help with analysis, we used 6 different excel sheets containing company's wor
 - ![salaries](https://github.com/assaci/Pewlett-Hackard-Analysis/blob/main/Data/salaries.csv?raw=true)
 - ![titles](https://github.com/assaci/Pewlett-Hackard-Analysis/blob/main/Data/titles.csv?raw=true)
 
-_________________________________________
-|  Total Employees |  300024            |
-________________________________________|_
-|  Numb of Dept    |  09                |
-________________________________________|
-|  Numb Empl Retir | 41380             |
-|________________________________________
-|  Numb uniq titles|  90398             |
-|________________________________________
-| Numb of Emp for Menthorship |  1549   |
-|_______________________________________
-
 ### Number of employees per department
 ![Employees_numb_per_dept](https://github.com/assaci/Pewlett-Hackard-Analysis/blob/main/screenshot/Employees_numb_per_dept.PNG?raw=true)
 
@@ -46,12 +34,16 @@ ________________________________________|
 
 ### List of Retiring Employees with their Titles
 
+Retirement Titles table that holds all the titles of current employees who were born between January 1, 1952 and December 31, 1955. 
+
 ![retirement_titles](https://github.com/assaci/Pewlett-Hackard-Analysis/blob/main/Data/retirement_titles.csv?raw=true)
 
 ![retirement_titles](https://github.com/assaci/Pewlett-Hackard-Analysis/blob/main/screenshot/retirement_titles.PNG?raw=true)
 
 
 ### Employees Eligible for the Mentorship Program
+
+Mentorship Eligibility table for current employees who were born between January 1, 1965 and December 31, 1965.
 
 ![unique_menthorship](https://github.com/assaci/Pewlett-Hackard-Analysis/blob/main/screenshot/unique_menthorship.csv?raw=true)
 
