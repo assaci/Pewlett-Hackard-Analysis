@@ -19,13 +19,13 @@ To help with analysis, we used 6 different excel sheets containing company's wor
 - ![salaries](https://github.com/assaci/Pewlett-Hackard-Analysis/blob/main/Data/salaries.csv?raw=true)
 - ![titles](https://github.com/assaci/Pewlett-Hackard-Analysis/blob/main/Data/titles.csv?raw=true)
 
-
+-----------------------------------------
 |  Total Employees |  300024            |
 |  Numb of Dept    |  09                |
 |  Numb Empl Retir |  41380             |
 |  Numb uniq titles|  90398             |
 |  Emp Menthorship |  1549              |
-
+-----------------------------------------
 
 
 ### Number of Retiring Title
