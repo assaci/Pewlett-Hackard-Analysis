@@ -19,11 +19,6 @@ To help with analysis, we used 6 different excel sheets containing company's wor
 - ![salaries](https://github.com/assaci/Pewlett-Hackard-Analysis/blob/main/Data/salaries.csv?raw=true)
 - ![titles](https://github.com/assaci/Pewlett-Hackard-Analysis/blob/main/Data/titles.csv?raw=true)
 
-### List of unique titles
-
-![unique_titles](https://github.com/assaci/Pewlett-Hackard-Analysis/blob/main/screenshot/unique_titles.csv?raw=true)
-
-![unique_titles](https://github.com/assaci/Pewlett-Hackard-Analysis/blob/main/screenshot/unique_titles.PNG?raw=true)
 
 ### Number of Employees Retiring Per Title
 
@@ -31,12 +26,16 @@ To help with analysis, we used 6 different excel sheets containing company's wor
 
 ### List of Retiring Employees with their Titles
 
+![unique_titles](https://github.com/assaci/Pewlett-Hackard-Analysis/blob/main/screenshot/unique_titles.csv?raw=true)
+
 Retirement Titles table that holds all the titles of current employees who were born between January 1, 1952 and December 31, 1955. 
 
 ![retirement_titles](https://github.com/assaci/Pewlett-Hackard-Analysis/blob/main/Data/retirement_titles.csv?raw=true)
 
 ![retirement_titles](https://github.com/assaci/Pewlett-Hackard-Analysis/blob/main/screenshot/retirement_titles.PNG?raw=true)
 
+
+![unique_titles](https://github.com/assaci/Pewlett-Hackard-Analysis/blob/main/screenshot/unique_titles.PNG?raw=true)
 
 ### Employees Eligible for the Mentorship Program
 
