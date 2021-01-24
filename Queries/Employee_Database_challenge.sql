@@ -104,3 +104,9 @@ WHERE emp_dept_emp.to_date = '9999-01-01'
 AND birth_date BETWEEN '1965-01-01' AND '1965-12-31'
 ORDER BY emp_no;									 
 SELECT * FROM mentorship_eligibilty; 
+
+SELECT DISTINCT ON (emp_no) emp_no, first_name, last_name,birth_date, from_date, to_date, title
+INTO unique_menthorship
+FROM mentorship_eligibilty
+ORDER BY emp_no ASC, to_date DESC
+SELECT * FROM unique_menthorship;
