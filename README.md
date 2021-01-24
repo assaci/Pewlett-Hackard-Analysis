@@ -19,9 +19,6 @@ To help with analysis, we used 6 different excel sheets containing company's wor
 - ![salaries](https://github.com/assaci/Pewlett-Hackard-Analysis/blob/main/Data/salaries.csv?raw=true)
 - ![titles](https://github.com/assaci/Pewlett-Hackard-Analysis/blob/main/Data/titles.csv?raw=true)
 
-### Number of employees per department
-![Employees_numb_per_dept](https://github.com/assaci/Pewlett-Hackard-Analysis/blob/main/screenshot/Employees_numb_per_dept.PNG?raw=true)
-
 ### List of unique titles
 
 ![unique_titles](https://github.com/assaci/Pewlett-Hackard-Analysis/blob/main/screenshot/unique_titles.csv?raw=true)
