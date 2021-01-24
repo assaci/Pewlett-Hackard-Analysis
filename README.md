@@ -29,10 +29,16 @@ ________________________________________|
 |  Numb uniq titles|  90398             |
 |________________________________________
 | Numb of Emp for Menthorship |  1549   |
-_________________________________________
+|_______________________________________|_
 
+### Number of employees per department
 ![Employees_numb_per_dept](https://github.com/assaci/Pewlett-Hackard-Analysis/blob/main/screenshot/Employees_numb_per_dept.PNG?raw=true)
 
+### List of unique titles
+
+![unique_titles](https://github.com/assaci/Pewlett-Hackard-Analysis/blob/main/screenshot/unique_titles.csv?raw=true)
+
+![unique_titles](https://github.com/assaci/Pewlett-Hackard-Analysis/blob/main/screenshot/unique_titles.PNG?raw=true)
 
 ### Number of Retiring Titles
 
@@ -47,11 +53,9 @@ _________________________________________
 
 ### Employees Eligible for the Mentorship Program
 
-![mentorship_eligibilty](https://github.com/assaci/Pewlett-Hackard-Analysis/blob/main/screenshot/mentorship_eligibilty.csv?raw=true)
-
 ![unique_menthorship](https://github.com/assaci/Pewlett-Hackard-Analysis/blob/main/screenshot/unique_menthorship.csv?raw=true)
 
-![unique_titles](https://github.com/assaci/Pewlett-Hackard-Analysis/blob/main/screenshot/unique_titles.PNG?raw=true)
+![mentorship_eligibilty](https://github.com/assaci/Pewlett-Hackard-Analysis/blob/main/screenshot/mentorship_eligibilty.csv?raw=true)
 
 ![mentorship_eligibilty](https://github.com/assaci/Pewlett-Hackard-Analysis/blob/main/screenshot/mentorship_eligibilty.PNG?raw=true)
 
