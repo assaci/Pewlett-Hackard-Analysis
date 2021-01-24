@@ -61,7 +61,7 @@ ________________________________________|
 
 ##Summary
 
-From our analysis we found out that 300024 employees are currently working in Pewlett Hackard company. From this number 41380 are retiring soon. The company has in total 9 different departments with  90398 unique titles. 
+From our analysis we found out that 300024 employees are currently working in Pewlett Hackard company. From this number 90398 are closed to  retiring. The company has in total 9 different departments with  90398 unique titles. 
 
 
  
