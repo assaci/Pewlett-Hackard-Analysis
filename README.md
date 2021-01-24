@@ -26,24 +26,24 @@ To help with analysis, we used 6 different excel sheets containing company's wor
 
 ### List of Retiring Employees with their Titles
 
-![unique_titles](https://github.com/assaci/Pewlett-Hackard-Analysis/blob/main/screenshot/unique_titles.csv?raw=true)
-
 Retirement Titles table that holds all the titles of current employees who were born between January 1, 1952 and December 31, 1955. 
+
+![unique_titles](https://github.com/assaci/Pewlett-Hackard-Analysis/blob/main/Data/unique_titles.csv?raw=true)
 
 ![retirement_titles](https://github.com/assaci/Pewlett-Hackard-Analysis/blob/main/Data/retirement_titles.csv?raw=true)
 
 ![retirement_titles](https://github.com/assaci/Pewlett-Hackard-Analysis/blob/main/screenshot/retirement_titles.PNG?raw=true)
 
-
 ![unique_titles](https://github.com/assaci/Pewlett-Hackard-Analysis/blob/main/screenshot/unique_titles.PNG?raw=true)
+
 
 ### Employees Eligible for the Mentorship Program
 
 Mentorship Eligibility table for current employees who were born between January 1, 1965 and December 31, 1965.
 
-![unique_menthorship](https://github.com/assaci/Pewlett-Hackard-Analysis/blob/main/screenshot/unique_menthorship.csv?raw=true)
+![unique_menthorship](https://github.com/assaci/Pewlett-Hackard-Analysis/blob/main/Data/unique_menthorship.csv?raw=true)
 
-![mentorship_eligibilty](https://github.com/assaci/Pewlett-Hackard-Analysis/blob/main/screenshot/mentorship_eligibilty.csv?raw=true)
+![mentorship_eligibilty](https://github.com/assaci/Pewlett-Hackard-Analysis/blob/main/Data/mentorship_eligibilty.csv?raw=true)
 
 ![mentorship_eligibilty](https://github.com/assaci/Pewlett-Hackard-Analysis/blob/main/screenshot/mentorship_eligibilty.PNG?raw=true)
 
