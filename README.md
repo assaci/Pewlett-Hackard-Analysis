@@ -40,11 +40,11 @@ ________________________________________|
 
 ![unique_titles](https://github.com/assaci/Pewlett-Hackard-Analysis/blob/main/screenshot/unique_titles.PNG?raw=true)
 
-### Number of Retiring Titles
+### Number of Employees Retiring Per Title
 
 ![retiring_titles](https://github.com/assaci/Pewlett-Hackard-Analysis/blob/main/screenshot/retiring_titles.PNG?raw=true)
 
-### Number of Retiring Employees by Title
+### List of Retiring Employees with their Titles
 
 ![retirement_titles](https://github.com/assaci/Pewlett-Hackard-Analysis/blob/main/Data/retirement_titles.csv?raw=true)
 
@@ -61,7 +61,9 @@ ________________________________________|
 
 ##Summary
 
-From our analysis we found out that 300024 employees are currently working in Pewlett Hackard company. From this number 90398 are closed to  retiring. The company has in total 9 different departments with  90398 unique titles. 
+From our analysis we found out that 300024 employees are currently working in Pewlett Hackard company. From this number 90398 are closed to  retiring ( refer to Number of Employees Retiring Per Title table).1549 will be eligible for mentorship.As the number of employees retiring is much higher, 49,899 in engineering,  40,497 in administration and 2 in management, Pewlett Hackard would need to hire more people especially in technical field.
+
+
 
 
  
