@@ -21,7 +21,9 @@ To help with analysis, we used 6 different excel sheets containing company's wor
 
 -----------------------------------------
 |  Total Employees |  300024            |
+-----------------------------------------
 |  Numb of Dept    |  09                |
+-----------------------------------------
 |  Numb Empl Retir |  41380             |
 |  Numb uniq titles|  90398             |
 |  Emp Menthorship |  1549              |
